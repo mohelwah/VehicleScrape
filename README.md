@@ -1,7 +1,7 @@
-[![ScrapeTemplate](https://github.com/mohelwah/ScrapeProjectsTemplate/actions/workflows/main.yml/badge.svg)](https://github.com/mohelwah/ScrapeProjectsTemplate/actions/workflows/main.yml)
+[![Vehicle Project](https://github.com/mohelwah/VehicleScrape/actions/workflows/main.yml/badge.svg)](https://github.com/mohelwah/VehicleScrape/actions/workflows/main.yml)
 
-# Project Type: Scrape Project Template
-# Project Name : Template
+# Project Type: Scrape Project
+# Project Name : Vehicle
 
 this is scaffold template for scrape project in python 
  Create the following:
