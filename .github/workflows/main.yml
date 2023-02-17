@@ -1,4 +1,4 @@
-name: ScrapeTemplate
+name: Vehicle Project
 
 on: [push]
 
